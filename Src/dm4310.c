@@ -1,6 +1,6 @@
 #include "dm4310.h"
 #define ASDADASD
-
+#define popipoipipo
 void DM4310_DecodeCAN(uint8_t data[8], DM4310_Info_t *data_frame);
 void DM4310_EnableMotor(CAN_HandleTypeDef *hcanx, uint32_t id);
 void DM4310_DisableMotor(CAN_HandleTypeDef *hcanx, uint32_t id);
